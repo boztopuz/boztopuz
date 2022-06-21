@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @boztopuz
-- 👀 I’m interested in Mobile Developer(such as Flutter, React Native)
-- 🌱 I’m currently learning Flutter/Dart
-- 💞️ I’m looking to collaborate on Software Developer
+- 👀 I’m interested in Mobile Developer(such as Native iOS development, Flutter)
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on iOS Developer
 - 📫 How to reach me boztopuz@gmail.com
 
 <!---
